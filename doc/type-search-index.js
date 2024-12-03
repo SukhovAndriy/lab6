@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"lab6","l":"AbstractHandler"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab6","l":"AuthorizationHandler"},{"p":"lab6","l":"ConfidentialityHandler"},{"p":"lab6","l":"Document"},{"p":"lab6","l":"FormatHandler"},{"p":"lab6","l":"Handler"},{"p":"lab6","l":"Main"},{"p":"lab6","l":"SubmissionTimeHandler"}];updateSearchResults();
